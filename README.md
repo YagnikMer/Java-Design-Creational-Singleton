@@ -4,7 +4,7 @@ SingleTon Design Pattern
 
 DEFINATION:
 
-A singleton is a class that allows only a single instance of itself to be created and gives access to that created instance.
+A singleton is a class that allows only a single instance.
 
 
 HOW TO CREATE
