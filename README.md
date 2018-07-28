@@ -7,6 +7,7 @@ DEFINATION:
 A singleton is a class that allows only a single instance.
 
 
+
 HOW TO CREATE
 
 Private constructor to restrict for new object from out side of class.
